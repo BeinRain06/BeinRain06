@@ -6,7 +6,7 @@
 <br></br>
 <br>
 ### **About Me**
-I'm a Front-End Developer with skills on ReactJs, vanilla JS, CSS, liking art and UI/UX Design.
+I'm a Front-End Developer with skills on ReactJs, vanilla JS, CSS, Liking art and UI/UX Design.
 >
 >Currently learning Typescript and open to   🔭 ̣**Work**
 ### **Experiences**
