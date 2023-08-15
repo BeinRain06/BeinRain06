@@ -8,7 +8,7 @@
 ### **About Me**
 I'm a Front-End Developer with skills on ReactJs, vanilla JS, CSS, liking art and UI/UX Design.
 >
->Currently learning Typescript and open to Work  ̣
+>Currently learning Typescript and open to **Work** 🔭 ̣
 ### **Experiences**
 Over 10 Years working on Electrical Engineering, fixing dwell's troubleshooting, wiring buildings, designing electrical schemes on AUTOCAD, ARCHICAD, as weel as electronics schemes with Proteus.
 Graduate in Electrical Engineering with a third Grade University Field Electrotechnis and Industrial Automation .
